@@ -1,4 +1,4 @@
-<h3 align="left">👋 E aí, Bem vindo!! eu sou o Igor Agiani Silva!</h3>
+<h3 align="left">👋 E aí, Bem vindo!!</h3>
 
 ###
 
