@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Sou aquele tipo de dev que não se contenta só em rodar o código quero entender, quebrar, refatorar e, se der tempo, deixar tudo bonito no GitHub, atualmente estudando Análise e Desenvolvimento de Sistemas e mergulhando de cabeça no mundo backend com Java, Spring Boot e umas pitadas de SQL.</h6>
+<p align="left">Sou aquele tipo de dev que não se contenta só em rodar o código quero entender, quebrar, refatorar e, se der tempo, deixar tudo bonito no GitHub, atualmente estudando Análise e Desenvolvimento de Sistemas e mergulhando de cabeça no mundo backend com Java, Spring Boot e umas pitadas de SQL.</p>
 
 ###
 
