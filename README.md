@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/igor-agiani" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-agiani/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="29" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/5511945073325" target="_blank">
