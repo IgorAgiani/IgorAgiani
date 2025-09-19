@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">Sou aquele tipo de dev que não se contenta só em rodar o código quero entender, quebrar, refatorar e, se der tempo, deixar tudo bonito no GitHub, atualmente estudando Análise e Desenvolvimento de Sistemas e mergulhando de cabeça no mundo backend com Java, Spring Boot e umas pitadas de SQL.</p>
+<p align="left">Sou um desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas. Meu foco principal é o mundo backend, onde não me contento apenas em "fazer o código rodar": minha motivação está em entender os detalhes, quebrar o sistema para aprender, refatorar para melhorar a qualidade e, por fim, organizar tudo em um bom repositório.
+
+Tecnologias e Ferramentas
+Atualmente, estou mergulhando de cabeça nas seguintes tecnologias:
+
+Linguagem: Java
+
+Framework: Spring Boot
+
+Banco de Dados: SQL.</p>
 
 ###
 
