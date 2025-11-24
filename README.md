@@ -9,7 +9,7 @@ Atualmente, estou mergulhando de cabeça nas seguintes tecnologias:
 
 Linguagem: Java
 
-Framework: Spring Boot
+Framework: Spring Boot e Flutter
 
 Banco de Dados: PostgreSQL, MySQL e MongoDB</p>
 
