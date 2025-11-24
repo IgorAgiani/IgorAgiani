@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas. Meu foco principal é o mundo backend, onde não me contento apenas em "fazer o código rodar": minha motivação está em entender os detalhes, quebrar o sistema para aprender, refatorar para melhorar a qualidade e, por fim, organizar tudo em um bom repositório.
+<p align="left">Sou um desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas. Meu foco principal é o mundo backend, onde não me contento apenas em "fazer o código rodar", minha motivação está em entender os detalhes, quebrar o sistema para aprender, refatorar para melhorar a qualidade.
 
 Tecnologias e Ferramentas
 Atualmente, estou mergulhando de cabeça nas seguintes tecnologias:
@@ -11,7 +11,7 @@ Linguagem: Java
 
 Framework: Spring Boot
 
-Banco de Dados: SQL.</p>
+Banco de Dados: PostgreSQL, MySQL e MongoDB</p>
 
 ###
 
