@@ -1,45 +1,38 @@
-<h3 align="left">👋 E aí, Bem vindo!!</h3>
+### Olá! Sou o Igor Agiani 👋
 
-###
+**Backend Developer | Java & Spring Boot Specialist**
 
-<p align="left">Sou um desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas. Meu foco principal é o mundo backend, onde não me contento apenas em "fazer o código rodar", minha motivação está em entender os detalhes, quebrar o sistema para aprender, refatorar para melhorar a qualidade.
+Sou um desenvolvedor focado na construção de APIs robustas e escaláveis. Minha trajetória não é linear: antes de mergulhar no código, atuei como atleta da **Seleção Brasileira de Tiro com Arco**. Essa experiência me ensinou que a excelência vem da repetição, da disciplina e da atenção aos mínimos detalhes — princípios que hoje aplico em cada linha de código que escrevo.
 
-Tecnologias e Ferramentas
-Atualmente, estou mergulhando de cabeça nas seguintes tecnologias:
+Atualmente, meu foco técnico é entregar software de alta qualidade utilizando o ecossistema Spring, garantindo confiabilidade através de testes automatizados e boas práticas de arquitetura.
 
-Linguagem: Java
+---
 
-Framework: Spring Boot e Flutter
+### 🛠️ Arsenal Técnico
 
-Banco de Dados: PostgreSQL, MySQL e MongoDB</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="33" alt="spring logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="33" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="33" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="33" alt="kubernetes logo"  />
+**Linguagens & Frameworks:**
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
 
-###
+**Banco de Dados & Ferramentas:**
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+---
+
+### 📫 Vamos conversar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/igor-agiani/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="29" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://wa.me/5511945073325" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="41" height="29" alt="whatsapp logo"  />
+  <a href="mailto:igor.agiani.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
-
-###
