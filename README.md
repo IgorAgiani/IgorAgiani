@@ -1,6 +1,6 @@
-### Olá! Sou o Igor Agiani 👋
+### Olá! Sou o Igor Agiani
 
-**Backend Developer | Java & Spring Boot Specialist**
+**Backend Developer | Java & Spring Boot**
 
 Sou um desenvolvedor focado na construção de APIs robustas e escaláveis. Minha trajetória não é linear: antes de mergulhar no código, atuei como atleta da **Seleção Brasileira de Tiro com Arco**. Essa experiência me ensinou que a excelência vem da repetição, da disciplina e da atenção aos mínimos detalhes — princípios que hoje aplico em cada linha de código que escrevo.
 
